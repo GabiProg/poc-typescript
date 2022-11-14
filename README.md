@@ -2,7 +2,7 @@
 
 Um projeto pensado para ajudar donos de pequenas hortas e jardins a terem conhecimento sobre suas plantas.
 
-** como rodar e instalar local **
+**Como rodar e instalar local**
 
 npm install && npx nodemon src/app.ts
 
